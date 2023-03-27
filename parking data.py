@@ -88,6 +88,7 @@ def CHECK_OUT():
 
 
 while True:
+    #Hello
     print("\nEnter I for check in, O for check out and P to print database.")
     what = input()
     if what == "I":
